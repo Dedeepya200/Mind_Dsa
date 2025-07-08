@@ -1,0 +1,263 @@
+{
+  "Arrays": [
+    {
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "leetcode_link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "leetcode_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+      "title": "Contains Duplicate",
+      "difficulty": "Easy",
+      "leetcode_link": "https://leetcode.com/problems/contains-duplicate/"
+    },
+    {
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/product-of-array-except-self/"
+    },
+    {
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/3sum/"
+    },
+    {
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/container-with-most-water/"
+    },
+    {
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "leetcode_link": "https://leetcode.com/problems/trapping-rain-water/"
+    }
+  ],
+  "Hashing": [
+    {
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "leetcode_link": "https://leetcode.com/problems/valid-anagram/"
+    },
+    {
+      "title": "Group Anagrams",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/group-anagrams/"
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/top-k-frequent-elements/"
+    },
+    {
+      "title": "Valid Sudoku",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/valid-sudoku/"
+    },
+    {
+      "title": "Encode and Decode Strings",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/encode-and-decode-strings/"
+    }
+  ],
+  "Stacks": [
+    {
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "leetcode_link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+      "title": "Min Stack",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/min-stack/"
+    },
+    {
+      "title": "Evaluate Reverse Polish Notation",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+    },
+    {
+      "title": "Generate Parentheses",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/generate-parentheses/"
+    },
+    {
+      "title": "Daily Temperatures",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/daily-temperatures/"
+    },
+    {
+      "title": "Car Fleet",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/car-fleet/"
+    }
+  ],
+  "Linked Lists": [
+    {
+      "title": "Reverse Linked List",
+      "difficulty": "Easy",
+      "leetcode_link": "https://leetcode.com/problems/reverse-linked-list/"
+    },
+    {
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "leetcode_link": "https://leetcode.com/problems/merge-two-sorted-lists/"
+    },
+    {
+      "title": "Linked List Cycle",
+      "difficulty": "Easy",
+      "leetcode_link": "https://leetcode.com/problems/linked-list-cycle/"
+    },
+    {
+      "title": "Reorder List",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/reorder-list/"
+    },
+    {
+      "title": "Remove Nth Node From End of List",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+    },
+    {
+      "title": "Add Two Numbers",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/add-two-numbers/"
+    }
+  ],
+  "Strings": [
+    {
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "leetcode_link": "https://leetcode.com/problems/valid-palindrome/"
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+      "title": "Longest Repeating Character Replacement",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+    },
+    {
+      "title": "Minimum Window Substring",
+      "difficulty": "Hard",
+      "leetcode_link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+      "title": "Palindromic Substrings",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/palindromic-substrings/"
+    }
+  ],
+  "Greedy": [
+    {
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+      "title": "Jump Game",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/jump-game/"
+    },
+    {
+      "title": "Jump Game II",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/jump-game-ii/"
+    },
+    {
+      "title": "Gas Station",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/gas-station/"
+    },
+    {
+      "title": "Hand of Straights",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/hand-of-straights/"
+    }
+  ],
+  "Dynamic Programming": [
+    {
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "leetcode_link": "https://leetcode.com/problems/climbing-stairs/"
+    },
+    {
+      "title": "House Robber",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/house-robber/"
+    },
+    {
+      "title": "House Robber II",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/house-robber-ii/"
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/longest-palindromic-substring/"
+    },
+    {
+      "title": "Palindromic Substrings",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/palindromic-substrings/"
+    },
+    {
+      "title": "Decode Ways",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/decode-ways/"
+    },
+    {
+      "title": "Coin Change",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/coin-change/"
+    },
+    {
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/word-break/"
+    }
+  ],
+  "Graphs": [
+    {
+      "title": "Clone Graph",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/clone-graph/"
+    },
+    {
+      "title": "Course Schedule",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/course-schedule/"
+    },
+    {
+      "title": "Pacific Atlantic Water Flow",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/pacific-atlantic-water-flow/"
+    },
+    {
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/number-of-islands/"
+    },
+    {
+      "title": "Longest Consecutive Sequence",
+      "difficulty": "Medium",
+      "leetcode_link": "https://leetcode.com/problems/longest-consecutive-sequence/"
+    },
+    {
+      "title": "Word Ladder",
+      "difficulty": "Hard",
+      "leetcode_link": "https://leetcode.com/problems/word-ladder/"
+    }
+  ]
+}
