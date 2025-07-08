@@ -6,7 +6,7 @@ Features
 - Mood input (Anxious, Calm, Focused, etc.)
 - Smart topic + problem suggestions
 - Logs mood vs performance
-- (Optional) GPT-powered motivation tips
+- GPT-powered motivation tips
 
 Built with ❤️ using Streamlit and Python.
 
